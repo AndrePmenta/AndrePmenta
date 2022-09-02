@@ -1,4 +1,4 @@
-## Olá sou André Pimenta, estudande de DevOps!!
+## Olá sou André Pimenta, estudande de Front-End!!
 <div align="center" dir="auto">
 <a href="https://github.com/AndrePmenta">
 <img height="130" src="https://github-readme-stats.vercel.app/api?username=AndrePmenta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
