@@ -1,8 +1,8 @@
 ## Olá sou André Pimenta, Web Developer!!
 <div align="center" dir="auto">
 <a href="https://github.com/AndrePmenta">
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=AndrePmenta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePmenta&layout=compact&langs_count=7&theme=dark"/>
+<img height="120" src="https://github-readme-stats.vercel.app/api?username=AndrePmenta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePmenta&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
